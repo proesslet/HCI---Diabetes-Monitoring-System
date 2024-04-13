@@ -15,3 +15,6 @@ Note: This application was created for a Human Computer Interaction course. It i
 
 1. Inside of the root directory, run `npm run dev`
 2. Open a web browser and go to localhost:5173 (Note: the port may be different depending on your computer's configuration)
+
+## Documentation
+While there is some documentation here in this readme, the majority of my documentation is in the Documentation Writeup PDF. This includes some more info about the files included as well as a full walkthrough of the application including screenshots.
