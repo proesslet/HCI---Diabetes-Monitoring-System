@@ -1,29 +1,17 @@
 # DiabetesMonitoringSystem
 
-This template should help get you started developing with Vue 3 in Vite.
+This application is a diabetes monitoring system that allows users to record their current blood sugar level and it will inform them whether it is high, low, or normal. If it is high or low, it tells them what steps to take to bring their blood sugar levels back to normal.
 
-## Recommended IDE Setup
+Note: This application was created for a Human Computer Interaction course. It is a simplified version of most diabetes monitoring systems and should not be user for real health purposes.
 
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur).
+## Installing and Running
 
-## Customize configuration
+### Installing Dependencies
 
-See [Vite Configuration Reference](https://vitejs.dev/config/).
+1. Inside of the root directory, run `npm install`
+2. Verify that a `node_modules` directory has been created
 
-## Project Setup
+### Running the App
 
-```sh
-npm install
-```
-
-### Compile and Hot-Reload for Development
-
-```sh
-npm run dev
-```
-
-### Compile and Minify for Production
-
-```sh
-npm run build
-```
+1. Inside of the root directory, run `npm run dev`
+2. Open a web browser and go to localhost:5173 (Note: the port may be different depending on your computer's configuration)
